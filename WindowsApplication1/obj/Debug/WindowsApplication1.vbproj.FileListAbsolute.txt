@@ -1,0 +1,11 @@
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ImageViewer.resources
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

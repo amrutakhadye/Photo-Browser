@@ -1,0 +1,40 @@
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.ImageViewer.resources
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\Project 6.vbproj.GenerateResource.Cache
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\amruta\Desktop\VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LogForm.resources
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.ImageViewer.resources
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.LogForm.resources
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\amruta\Desktop\VB\Project 6\WindowsApplication1\obj\Debug\Project 6.vbproj.GenerateResource.Cache
+C:\Users\amruta\Desktop\VB\assignments\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\amruta\Desktop\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\amruta\Desktop\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\amruta\Desktop\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.ImageViewer.resources
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.LogForm.resources
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.MainForm.resources
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\Sacred_Heart_University\LateSpring\VB\assignments\Project 6\WindowsApplication1\obj\Debug\Project 6.vbproj.GenerateResource.Cache
